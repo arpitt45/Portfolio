@@ -57,7 +57,27 @@ svg {
       text-decoration: none;
   }
 
+  .btn_works2 {
+      left: 193px;
+      right: unset;
+      text-decoration: none;
+  }
+
   .btn:hover {
       background: #ffffff;
       color: #1B1734;
   }
+
+  .heading{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-position: center;
+    color: black;
+    font-size: 60px;
+  }
+
+  /* #svgGroup{
+    position: relative;
+    top: 50px; 
+  } */
